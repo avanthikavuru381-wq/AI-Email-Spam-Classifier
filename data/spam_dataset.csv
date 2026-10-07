@@ -1,0 +1,41 @@
+message,label
+"Congratulations! You won a free prize. Click now to claim.",spam
+"URGENT! You have won a cash reward. Claim your prize today.",spam
+"Free entry in our weekly contest. Reply WIN to receive your prize.",spam
+"Congratulations! You have been selected for a special reward.",spam
+"Claim your free gift card now. Limited time offer!",spam
+"You have won a lottery prize. Send your details to claim.",spam
+"Exclusive offer! Get 90% discount today. Click the link now.",spam
+"WINNER! You have been chosen for a free vacation.",spam
+"Get rich quickly with this amazing investment opportunity.",spam
+"Your account has won a bonus reward. Claim immediately.",spam
+"Free mobile recharge available. Click here to get it.",spam
+"Congratulations! You are today's lucky winner.",spam
+"Special promotion! Buy now and receive a free gift.",spam
+"You have been selected for a cash prize. Reply YES to claim.",spam
+"Earn money from home with this simple opportunity.",spam
+"URGENT: Your reward is waiting. Claim it before it expires.",spam
+"Free coupon available now. Click to redeem.",spam
+"Congratulations! Your number has won a special prize.",spam
+"Limited offer! Get your free membership today.",spam
+"You are eligible for a free bonus. Claim now.",spam
+"Hey, are we still meeting for lunch today?",ham
+"Can you send me the project report when you get time?",ham
+"Your appointment is confirmed for tomorrow at 10 AM.",ham
+"Don't forget to bring your notebook to class.",ham
+"Please call me when you reach home.",ham
+"Meeting has been moved to 3 PM today.",ham
+"Can you help me with the Python assignment?",ham
+"I will be late to the office today.",ham
+"Your package will be delivered tomorrow.",ham
+"Let's discuss the project after lunch.",ham
+"Thank you for helping me with the assignment.",ham
+"Please send me the notes from today's class.",ham
+"Are you available for a quick meeting?",ham
+"Your interview is scheduled for Monday.",ham
+"Remember to submit the internship task today.",ham
+"Can you share the presentation file with me?",ham
+"I reached the college safely.",ham
+"Let's meet at the library this evening.",ham
+"The exam starts at 9 AM tomorrow.",ham
+"Please check the email I sent earlier.",ham
